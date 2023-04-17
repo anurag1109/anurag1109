@@ -30,8 +30,8 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 💬 Ask me about *JavaScript, NodeJS, ExpressJS, MongoDB, MySQL*
 - 👯 I am also looking for some *Open Source Oppurtunities*
 - 👨🏻‍🎓 Visit my *[portfolio](https://anurag1109.github.io/)*
-- 🪢 Know more about me *[My Resume](https://drive.google.com/file/d/1eDMFybX_gTAvppZ8QHmLdB6Q9PxdEwdt/view?usp=share_link)*
-- 📫 reach me on *sin.anurag12@gmail.com*
+- 🪢 Checkout *[My Resume](https://drive.google.com/file/d/1eDMFybX_gTAvppZ8QHmLdB6Q9PxdEwdt/view?usp=share_link)*
+- 📫 Reach me on Gmail *sin.anurag12@gmail.com*
 
 
 ## 🛠Languages, Tools and Skills:
