@@ -31,7 +31,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 👯 I am also looking for some *Open Source Oppurtunities*
 - 👨🏻‍🎓 Visit https://guptag0808.github.io/
 - 🪢 Know more about me *[My Resume](https://drive.google.com/file/d/1BL0DuyR0KHbi-4NV8xEgeT_5rKRuAjWi/view?usp=share_link)*
-- 📫 How to reach me *saurabh4kaj@gmail.com*
+- 📫 How to reach me *sin.anurag12@gmail.com*
 
 
 ## 🛠Languages and Tools:
