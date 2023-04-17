@@ -29,9 +29,9 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 🌱 I’m learning *Nodejs backend development*
 - 💬 Ask me about *JavaScript, NodeJS, ExpressJS, MongoDB, MySQL*
 - 👯 I am also looking for some *Open Source Oppurtunities*
-- 👨🏻‍🎓 Visit https://guptag0808.github.io/
-- 🪢 Know more about me *[My Resume](https://drive.google.com/file/d/1BL0DuyR0KHbi-4NV8xEgeT_5rKRuAjWi/view?usp=share_link)*
-- 📫 How to reach me *sin.anurag12@gmail.com*
+- 👨🏻‍🎓 Visit https://anurag1109.github.io/
+- 🪢 Know more about me *[My Resume](https://drive.google.com/file/d/1eDMFybX_gTAvppZ8QHmLdB6Q9PxdEwdt/view?usp=share_link)*
+- 📫 reach me 0n *[Gmail](sin.anurag12@gmail.com)*
 
 
 ## 🛠Languages and Tools:
