@@ -27,14 +27,21 @@ challenges and opportunities to learn and grow, allowing me to leverage and hone
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🌱 I’m learning *Nodejs backend development*
-- 💬 Ask me about *JavaScript, NodeJS, ExpressJS, MongoDB, MySQL*
+- 💬 Ask me about *React, Redux, JavaScript, NodeJS, ExpressJS, MongoDB,*
 - 👯 I am also looking for some *Open Source Oppurtunities*
 - 👨🏻‍🎓 Visit my *[portfolio](https://anurag1109.github.io/)*
 - 🪢 Checkout *[My Resume](https://drive.google.com/file/d/1eDMFybX_gTAvppZ8QHmLdB6Q9PxdEwdt/view?usp=share_link)*
 - 📫 Reach me on Gmail *sin.anurag12@gmail.com*
 
 
+
+<br>
+<br>
+<br>
+
+
 ## 🛠Languages, Tools and Skills:
+<br>
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
 ![React](https://img.shields.io/badge/react-00BFFF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![redux](https://img.shields.io/badge/redux-461B7E.svg?style=for-the-badge&logo=redux&logoColor=white)
