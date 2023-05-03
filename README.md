@@ -40,7 +40,6 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 
 ## 🛠Languages, Tools and Skills:
-<br>
 <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) -->
 ![React](https://img.shields.io/badge/react-00BFFF.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-461B7E.svg?style=for-the-badge&logo=redux&logoColor=white)
