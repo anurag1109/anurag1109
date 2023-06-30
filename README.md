@@ -15,7 +15,7 @@ challenges and opportunities to learn and grow, allowing me to leverage and hone
 
 <h3 align="left">🤝Connect with me on:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anurag-as/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anuragsingh0911/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--    <a href="https://www.linkedin.com/in/anurag-as/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPmE86LJPlnh2QderT1spyE4t0xcwEemQHQ&usqp=CAU" height="28"></a>
  -->
 
