@@ -29,7 +29,7 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 🌱 I’m learning *Nodejs backend development*
 - 💬 Ask me about *React, Redux, JavaScript, NodeJS, ExpressJS, MongoDB,*
 - 👯 I am also looking for some *Open Source Oppurtunities*
-- 👨🏻‍🎓 Visit my *[portfolio](https://anurag1109.github.io/)*
+- 👨🏻‍🎓 Visit my *[portfolio](https://anurag1109.github.io/portfolio/)*
 - 🪢 Checkout *[My Resume](https://drive.google.com/file/d/1eDMFybX_gTAvppZ8QHmLdB6Q9PxdEwdt/view?usp=share_link)*
 - 📫 Reach me on Gmail *sin.anurag12@gmail.com*
 
