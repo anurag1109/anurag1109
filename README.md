@@ -28,7 +28,7 @@ An aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - 🌱 Learning *golang backend development*
 - 💬 Ask me about *React, Redux, JavaScript, NodeJS, ExpressJS, MongoDB,*
-- 👯 I am also looking for some *Open Source Oppurtunities*
+- 👯 Always looking for some *Open Source Oppurtunities*
 - 👨🏻‍🎓 Visit my *[portfolio](https://anurag1109.github.io/portfolio/)*
 - 🪢 Checkout *[My Resume](https://drive.google.com/file/d/1oHbk6ZqFDuzJypHbLVD-7hJ8KFFLIt2b/view)*
 - 📫 Reach me on Gmail *sin.anurag12@gmail.com*
