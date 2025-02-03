@@ -26,7 +26,7 @@ challenges and opportunities to learn and grow, allowing me to leverage and hone
 ## :man_technologist: About Me :
 An aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> specialised in MERN.
 
-- 🌱 I’m learning *golang backend development*
+- 🌱 Learning *golang backend development*
 - 💬 Ask me about *React, Redux, JavaScript, NodeJS, ExpressJS, MongoDB,*
 - 👯 I am also looking for some *Open Source Oppurtunities*
 - 👨🏻‍🎓 Visit my *[portfolio](https://anurag1109.github.io/portfolio/)*
